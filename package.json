@@ -1,0 +1,11 @@
+{
+  "name": "docker-bot-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leandro Lima",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "12.5.1",
+    "dotenv": "^10.0.0"
+  }
+}
